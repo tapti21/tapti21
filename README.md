@@ -1,4 +1,4 @@
-![logo](https://github.com/tapti21/tapti21/blob/main/github.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Trapti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapti21&label=Profile%20views&color=0e75b6&style=flat" alt="tapti21" /> </p>
 

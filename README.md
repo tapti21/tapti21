@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SERVDAN**
 
-- 🌱 I’m currently learning **MEAN stock**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 👨‍💻 All of my projects are available at [https://profile-payp.onrender.com/](https://profile-payp.onrender.com/)
 

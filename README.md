@@ -1,7 +1,7 @@
 ![logo](https://github.com/tapti21/tapti21/blob/main/git.jpg)
 <h1 align="center">Hi 👋, I'm Trapti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapti21&label=Profile%20views&color=0e75b6&style=flat" alt="tapti21" /> </p>
-<img align="right" alt="coding" width="800" src="C:\Users\dell\Desktop\github.jpg">
+<img align="right" alt="coding" width="100%" src="C:\Users\dell\Desktop\github.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapti21" alt="tapti21" /></a> </p>
 

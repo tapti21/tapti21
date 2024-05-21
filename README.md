@@ -1,10 +1,7 @@
 ![logo](https://github.com/tapti21/tapti21/blob/main/git.jpg)
 <h1 align="center">Hi 👋, I'm Trapti</h1>
- <img   align="left" width="700px" src="https://komarev.com/ghpvc/?username=tapti21&label=Profile%20views&color=0e75b6&style=flat" alt="tapti21" /> 
+ <img align="left" width="700px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw0Nlsg7MDSaWajNk6_myp4O&ust=1716361840896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDB7aKYnoYDFQAAAAAdAAAAABAE.gif"/> 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapti21" alt="tapti21" /></a> </p>
-<img align="right" alt="coding" width="800" src="file:///C:/Users/dell/Desktop/github.jpg">
 
 - 🔭 I’m currently working on **SERVDAN**
 

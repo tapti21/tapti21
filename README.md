@@ -1,6 +1,6 @@
 ![logo](https://github.com/tapti21/tapti21/blob/main/git.jpg)
 <h1 align="center">Hi 👋, I'm Trapti</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapti21&label=Profile%20views&color=0e75b6&style=flat" alt="tapti21" /> </p>
+ <img   align="left" width="700px" src="https://komarev.com/ghpvc/?username=tapti21&label=Profile%20views&color=0e75b6&style=flat" alt="tapti21" /> 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapti21" alt="tapti21" /></a> </p>

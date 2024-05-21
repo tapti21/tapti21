@@ -1,8 +1,6 @@
 ![logo](https://github.com/tapti21/tapti21/blob/main/git.jpg)
 <h1 align="center">Hi 👋, I'm Trapti</h1>
- <img align="left" width="700px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw0Nlsg7MDSaWajNk6_myp4O&ust=1716361840896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDB7aKYnoYDFQAAAAAdAAAAABAE.gif"/> 
-
-
+ <img  align="left" width="1700px" height="500px" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"><br>
 - 🔭 I’m currently working on **SERVDAN**
 
 - 🌱 I’m currently learning **MEAN stack**
@@ -26,4 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapti21&show_icons=true&locale=en" alt="tapti21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapti21&" alt="tapti21" /></p>
+
+
 
